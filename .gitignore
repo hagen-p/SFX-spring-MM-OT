@@ -1,4 +1,4 @@
-# Compiled class file
+z# Compiled class file
 *.class
 
 # Log file
@@ -25,3 +25,36 @@ SFX-spring-MM-OT.code-workspace
 .DS_Stor*
 
 microservice1/src/test/.DS_Store
+microservice4/.project
+microservice1/.settings/org.eclipse.core.resources.prefs
+microservice1/.settings/org.eclipse.core.resources.prefs
+microservice1/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+microservice1/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+microservice1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+microservice1/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+microservice2/.classpath
+microservice2/.project
+microservice2/.springBeans
+microservice2/.settings/org.eclipse.core.resources.prefs
+microservice2/.settings/org.eclipse.jdt.core.prefs
+microservice2/.settings/org.eclipse.m2e.core.prefs
+microservice2/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+microservice2/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+microservice2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+microservice2/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+microservice3/.factorypath
+microservice3/.settings/org.eclipse.core.resources.prefs
+microservice3/.settings/org.eclipse.jdt.apt.core.prefs
+microservice3/.settings/org.eclipse.jdt.core.prefs
+microservice3/.settings/org.eclipse.m2e.core.prefs
+microservice3/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+microservice3/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+microservice3/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+microservice3/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
+microservice4/.classpath
+microservice4/.project
+microservice4/.springBeans
+microservice4/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst
+microservice4/target/maven-status/maven-compiler-plugin/compile/default-compile/inputFiles.lst
+microservice4/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/createdFiles.lst
+microservice4/target/maven-status/maven-compiler-plugin/testCompile/default-testCompile/inputFiles.lst
